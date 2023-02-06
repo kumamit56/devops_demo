@@ -1,0 +1,8 @@
+Today, I have written a blog on DevOps why is's needed, 
+what's use of it and how it can helps to streamline the whole 
+end to end Software Devolopment Cycle. Even it's the first day
+ of the month I can modifed the way to publish my blog I'm using
+ a custom website for publishing my blog, please clock on the post 
+to review it's full article. DevOps is a practice that aims to bridge
+ the gap between software development and IT operations. This collaboration
+ between teams helps organizations to deliver high-quality software quickly, reliably and securely.
