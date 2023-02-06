@@ -1,0 +1,2 @@
+# What is the importance of DevOps :
+Reduced time to market : DevOps is important for your company because it allows you to produce software faster because of improved procedures, automation, and release planning, among other things. If you have a shorter time to market, you have a better chance of beating your competitors.

@@ -1,0 +1,9 @@
+
+# What is DevOps :
+DevOps speeds delivery of higher quality software by combining and automating the work of software development and IT operations teams. DevOps outlines a software development process and an organizational culture shift that speeds the delivery of higher quality software by automating and integrating the efforts of development and IT operations teams - two groups that traditionally practiced separately from each other, or in silos.
+
+# What is Automation :
+Automation is The Term Where You Write a Some Kind Of Script To Automate the Things without Doing a Manual Process because it's a very fast process compare to manual and the chances of getting error is also low so ex - Terraform - Infrastructure as a Code bash or shall - Scripting language.
+
+# What is Scaling :
+Scale is like if Your Traffic Goes up In Your Website so you have to Scale means Increase the Configuration such as ram and CPU so Your Machine can Handle the traffic that's pretty much about Scaling we have a Two Scaling 1) Scaling In 2) Scaling Out.

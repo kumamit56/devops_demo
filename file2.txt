@@ -1,0 +1,2 @@
+# What is Infrastructure : 
+Infrastructure as code (IAC) uses DevOps methodology and versioning with a descriptive model to define and deploy infrastructure, such as networks, virtual machines, load balancers, and connection topologies .
